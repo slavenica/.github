@@ -1,4 +1,4 @@
-$ Slavenica
+# Slavenica
 
 Slavenica jestʹ preložʹničʹska programma, sǫtvorena dělja slověnʹskyja jazyčʹnyja sěmʹi, predǫlagajušči polʹzʹnǫ funkcionalǫ dělja učenyhǫ, lingvistovǫ, učitelěi i ljubitelěi ęzyka. Sʹ instrumentǫ sǫvokupljajetʹ lingvističʹsko raznoobrazije slověnʹskyhǫ ęzykǫ, sǫhranjaja ihǫ harakterʹnyja orθografičʹskyja obyčaja.
 Sǫtvorenije preložʹnika načato bystʹ Danslavomʹ Slavenʹskymʹ vǫ lětě 2006 na osnově jego raněišihǫ dělǫ konca 1990-hǫ lětǫ. Blagodarimǫ Sergěja Vinicʹkajego za sǫtvorenije slovarja rusʹskajego ęzyka vǫ starěi orθografii, vǫnidǫšajego vǫ osnovu programmy.
